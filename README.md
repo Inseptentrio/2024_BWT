@@ -1,4 +1,4 @@
-### Ссылки на разделы сайта:
-#### Типографика: https://github.com/Inseptentrio/2024_BWT/blob/main/010_typography/Index.html
+### Навигация по контрольной 1:
+#### Сайт с типографикой: https://github.com/Inseptentrio/2024_BWT/blob/main/010_typography/Index.html
 #### Паспорт:
 #### Задача:
