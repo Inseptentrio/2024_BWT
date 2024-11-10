@@ -1,10 +1,7 @@
 const changer = document.getElementById("button")
 
 function change_all(){
-    //const item  = document.getElementsByTagName('p')[0]
-    //console.log(item.innerText)
-   //item.innerText = 'новое Имя Ivan'
-
+    
     document.getElementsByTagName('div')[0].innerText='GU OF THE MOIAOR';
     document.getElementsByTagName('div')[1].innerText='IN ST. PETERSBURG AND THE LENINGRAD';
     document.getElementsByTagName('div')[2].innerText='REGION';
