@@ -5,7 +5,7 @@ function change_all(){
     //console.log(item.innerText)
    //item.innerText = 'новое Имя Ivan'
 
-    document.getElementsByTagName('div')[0].innerText='GU OF THE MINISTRY OF INTERNAL AFFAIRS OF RUSSIA';
+    document.getElementsByTagName('div')[0].innerText='GU OF THE MOIAOR';
     document.getElementsByTagName('div')[1].innerText='IN ST. PETERSBURG AND THE LENINGRAD';
     document.getElementsByTagName('div')[2].innerText='REGION';
     document.getElementsByTagName('div')[5].innerText='STAROSTINA';
