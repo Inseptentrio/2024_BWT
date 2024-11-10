@@ -10,7 +10,7 @@ function change_all(){
         document.getElementsByTagName('div')[6].innerText='АРИНА';
         document.getElementsByTagName('div')[7].innerText='ЕВГЕНЬЕВНА';
         document.getElementsByTagName('div')[8].innerText='ЖЕН';
-        document.getElementsByTagName('div')[10].innerText=' Г. &nbsp; ИЖЕВСК ';
+        document.getElementsByTagName('div')[10].innerHTML=' Г. &nbsp; ИЖЕВСК ';
     }   
    else{
        if (document.getElementsByTagName('div')[0].innerText==='ГУ МВД РОССИИ ПО'){  
