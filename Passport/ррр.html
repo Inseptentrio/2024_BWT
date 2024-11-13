@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Решение алгоритмической задачи</title>    
+</head>    
+<body>
+    <p name="formulation">Определить значение функции Z=1/(XY) при произвольных X и Y и отправить на сервер</p>
+    <form action="https://www.bing.com/search" id="UserEnter" name="UserEnter" target="_blank" method="get">
+    <ul>
+        <li>x: <input id="x" name="x" type="number" value="10"></li>
+        <li>y: <input id="y" name="y" type="number" value="20"></li>
+        <br><input id="send" type="button" value="Отправить" onclick="calculate()">
+        <br>
+        <p id="result"></p> 
+    </ul>
+    <input type="hidden" name="q" id="query">
+    </form>        
+</body>
+<script>
+function calculateZ(x, y) {
+    if (x === 0 || y === 0) {
+        return "Знаменатель не может быть равен нулю";
+    }
+    let z = 1 / (x * y);
+    return z;
+}
+
+function calculate() {
+    var x = parseInt(document.getElementById('x').value);
+    var y = parseInt(document.getElementById('y').value);
+    
+    let result = calculateZ(x, y);
+    document.getElementById('result').innerHTML = "Результат вычисления: " + result;
+    
+    // Обновляем значение скрытого input для передачи в Bing
+    document.getElementById('query').value = X=${x}, Y=${y}, Z=${result};
+    
+    // Отправляем форму
+    document.getElementById('UserEnter').submit();
+}
+</script>
+</html>
