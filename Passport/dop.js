@@ -4,14 +4,14 @@ function verify() {
     let b = parseInt(elementB.value);
     let c = parseInt(elementC.value);
     console.log(a, b, c)
-    let summ = a**2+b**2
+    let summ = b**2+c**2
 
-    if (c**2 == summ) {
-        result = "С есть гипотенуза"
+    if (a**2 == summ) {
+        result = "A есть гипотенуза"
         check = true;
     } 
     else {
-        result = "С не гипотенуза"
+        result = "A не гипотенуза"
         check = false;
     }
     document.getElementById("result").value = result;
