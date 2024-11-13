@@ -14,3 +14,14 @@ function calculate() {
     let result = calculateZ(x, y);
     document.getElementById('result').innerHTML = "Результат вычисления: "+ result;
 }
+
+function send() {
+    if result = calculateZ(x, y);
+    }
+}
+
+const elementVerify = document.getElementById("verify");
+elementVerify.addEventListener('click', verify);
+
+const elementSend = document.getElementById("send");
+elementSend.addEventListener('click', send)
