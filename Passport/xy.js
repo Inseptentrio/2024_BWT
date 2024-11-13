@@ -12,6 +12,6 @@ function calculate() {
     var y = parseInt(document.getElementById('y').value);
     
     let result = calculateZ(x, y);
-    document.getElementById('result').innerHTML = "Результат вычисления: "+ result;
+    document.getElementById('result').innerHTML = "Результат вычисления: " + result;
 }
 
