@@ -10,14 +10,14 @@
          url("/fonts/Jost.woff") format("woff");
   }
 
-.article {
+#article {
     margin-top: 110px;
     font-family: "Jost";
     font-weight: lighter;
     
     }
 
-.navigation {
+#navigation {
     margin-top: 25px;
 }
 
@@ -28,15 +28,13 @@ body {
     background-image: url("ogogog.jpg");
 }
 
-.start {
+#start {
     margin-top: 25px;
 }
 
 #first {
     text-align: center;
     font-size: 12px;
-    margin-left: 250px;
-    margin-right: 250px;
 }
 
 header {
@@ -79,7 +77,7 @@ main {
 
 
 
-.line {
+#line {
     margin-top: -14px;
     }
 
