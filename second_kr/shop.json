@@ -1,34 +1,34 @@
 [
   {
     "id": "1",
-    "title": "Товар 1",
+    "title": "Легенды и мифы древней Греции",
     "vendor_code": "111",
-    "description": "Описание 1",
-    "price": 100,
+    "description": "Николай Альбертович Кун",
+    "price": 1000,
     "img": "../../images/uso_001.jpg"
   },
   {
     "id": "2",
-    "title": "Товар 2",
+    "title": "Статуэтка Геракл отдыхающий",
     "vendor_code": "222",
-    "description": "Описание 2",
-    "price": 200,
+    "description": "Белая",
+    "price": 1300,
     "img": "../../images/uso_002.jpg"
   },
   {
     "id": "3",
-    "title": "Товар 3",
+    "title": "Статуэтка Геракл отдыхающий",
     "vendor_code": "333",
-    "description": "Описание 3",
-    "price": 300,
+    "description": "Золотая",
+    "price": 1500,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
   },
   {
     "id": "4",
-    "title": "Товар 4",
+    "title": "Образы античности",
     "vendor_code": "444e",
-    "description": "Описание 4",
-    "price": 400,
+    "description": "Предметы искусства из коллекции Эрмитажа",
+    "price": 700,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
   }
   ,
