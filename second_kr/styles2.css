@@ -31,65 +31,65 @@ body {
 start {
     margin-top: -200px;
 }
-#zerozero {
+.zerozero {
     text-align: center;
     font-size: 12px;
     margin-top: 50px;
 }
 
-#zero {
+.zero {
     text-align: center;
     font-size: 12px;
 }
-#one {
-    text-align: center;
-    font-size: 12px;
-    margin-top: 25px;
-}
-
-#two {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 50px;
-}
-
-#three {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 50px;
-}
-
-#four {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 50px;
-}
-
-#five {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 50px;
-}
-
-#six {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 50px;
-}
-
-#seven {
+.one {
     text-align: center;
     font-size: 12px;
     margin-top: 25px;
 }
 
-#important {
+.two {
     text-align: left;
     font-size: 12px;
     margin-top: 50px;
 }
 
-#nine {
+.three {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.four {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.five {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.six {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.seven {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+.important {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.nine {
     text-align: left;
     font-size: 12px;
     margin-left: 250px;
@@ -97,7 +97,7 @@ start {
     margin-top: 50px;
 }
 
-#ten {
+.ten {
     text-align: left;
     font-size: 12px;
     margin-top: 25px;
