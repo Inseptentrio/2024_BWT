@@ -16,9 +16,9 @@ a.active { text-decoration:underline; font-weight: bold; }
 </head>
 
 <body>
-<div class="article" align="center">  <font color=black face="Jost" size=4> МИФОЛОГИЯ ДРЕВНЕЙ ГРЕЦИИ</font> </div>
+<div class="container" id="article" align="center">  <font color=black face="Jost" size=4> МИФОЛОГИЯ ДРЕВНЕЙ ГРЕЦИИ</font> </div>
 
-<div class="navigation">
+<div class="container" id="navigation">
     <nav size="3" align='center'>
     <font color=gray size=2>
     <a href="Index.html">О САЙТЕ</a>
@@ -34,15 +34,15 @@ a.active { text-decoration:underline; font-weight: bold; }
 </nav> 
 </div>  
 
-<form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+<form action="https://www.bing.com/search?" class="container" id="UserEnter" name="UserEnter" target="_blank">
      <p> </p> 
-    <p align='center'> ОФОРМЛЕНИЕ ЗАКАЗА <br> ПОЖАЛУЙСТА, ОСТАВЬТЕ СВОИ ДАННЫЕ
+    <p align='center'> ОФОРМЛЕНИЕ ЗАКАЗА. ПОЖАЛУЙСТА, ОСТАВЬТЕ СВОИ ДАННЫЕ
         
     <input type="hidden"  name="q" value="search"></p>
     
-    <p> Фамилия: <input type="Text" name="last_name" size=20  value="Совоокая"></p>
-    <p> Имя: <input type="Text" name="name" size=20  value="Афина"></p>
-    <p> Телефон: <input type="Number" name="phone_number" size=20 value="79003002010"></p>
+    <div class="container"> Фамилия: <input type="Text" name="last_name" size=20  value="Совоокая"></div>
+    <div class="container"> Имя: <input type="Text" name="name" size=20  value="Афина"></div>
+    <div class="container"> Телефон: <input type="Number" name="phone_number" size=20 value="79003002010"></div>
     <p> Электронная почта: <input type="Text" name="email" size=20  value="ilovegomer@gmail.com"></p>
     <p> Пожелания к заказу <br>
         <TEXTAREA cols=80 rows=2 name="Iwant" ></TEXTAREA>
