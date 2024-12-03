@@ -72,21 +72,4 @@
     "price": 5000,
     "img": "dress2.jpg"
   }
-  ,
-  {
-    "id": "10",
-    "title": "Товар 10",
-    "vendor_code": "44410e",
-    "description": "Описание 10",
-    "price": 900,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
-  },
-  {
-    "id": "11",
-    "title": "Товар 11",
-    "vendor_code": "44411e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
-  }
 ]
