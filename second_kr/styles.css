@@ -31,7 +31,8 @@ body {
 .start {
     margin-top: 25px;
 }
-.first {
+
+#first {
     text-align: center;
     font-size: 12px;
     margin-left: 250px;
