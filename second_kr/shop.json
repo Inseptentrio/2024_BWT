@@ -37,14 +37,14 @@
     "title": "Кольцо с медузой Горгоной",
     "vendor_code": "4445e",
     "description": "Позолоченное",
-    "price": 4000,
+    "price": 5000,
     "img": "ring.jpg"
   },
   {
     "id": "6",
     "title": "Кулон с Посейдоном",
     "vendor_code": "4446e",
-    "description": "С серебрянным напылением",
+    "description": "Посеребреный",
     "price": 3500,
     "img": "kulon1.jpg"
   },
@@ -62,7 +62,7 @@
     "vendor_code": "4448e",
     "description": "Без рукавов",
     "price": 4500,
-    "img": "dress1.ipg"
+    "img": "dress1.jpg"
   },
   {
     "id": "9",
