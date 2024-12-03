@@ -10,14 +10,14 @@
          url("/fonts/Jost.woff") format("woff");
   }
 
-.article {
+#article {
     margin-top: 110px;
     font-family: "Jost";
     font-weight: lighter;
     
     }
 
-.navigation {
+#navigation {
     margin-top: 25px;
 }
 
@@ -28,14 +28,13 @@ body {
     background-image: url("ogogog.jpg");
 }
 
-.start {
+#start {
     margin-top: 25px;
 }
-.first {
+#first {
     text-align: center;
     font-size: 12px;
-    margin-left: 250px;
-    margin-right: 250px;
+
 }
 
 header {
@@ -72,18 +71,9 @@ main {
     padding: 1em;
 }
 
-.line {
-    margin-top: -14px;
-    }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1em 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+nav a {
+    text-decoration: none;
+    color: purple;
 }
-
 
