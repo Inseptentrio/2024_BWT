@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Белая",
     "price": 1300,
-    "img": "../../images/uso_002.jpg"
+    "img": "ger1.jpg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": "Золотая",
     "price": 1500,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
+    "img": "ger2.jpg"
   },
   {
     "id": "4",
@@ -29,48 +29,48 @@
     "vendor_code": "444e",
     "description": "Предметы искусства из коллекции Эрмитажа",
     "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+    "img": "book.jpg"
   }
   ,
   {
     "id": "5",
-    "title": "Товар 5",
+    "title": "Кольцо с медузой Горгоной",
     "vendor_code": "4445e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    "description": "Позолоченное",
+    "price": 4000,
+    "img": "ring.jpg"
   },
   {
     "id": "6",
-    "title": "Товар 6",
+    "title": "Кулон с Посейдоном",
     "vendor_code": "4446e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    "description": "С серебрянным напылением",
+    "price": 3500,
+    "img": "kulon1.jpg"
   },
   {
     "id": "7",
-    "title": "Товар 7",
+    "title": "Кулон с Афродитой",
     "vendor_code": "4447e",
-    "description": "Описание 7",
-    "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    "description": "Позолоченный",
+    "price": 5000,
+    "img": "kulon2.jpg"
   },
   {
     "id": "8",
-    "title": "Товар 8",
+    "title": "Греческое платье",
     "vendor_code": "4448e",
-    "description": "Описание 8",
-    "price": 800,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+    "description": "Без рукавов",
+    "price": 4500,
+    "img": "dress1.ipg"
   },
   {
     "id": "9",
-    "title": "Товар 9",
+    "title": "Греческое платье",
     "vendor_code": "444e",
-    "description": "Описание 9",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    "description": "Бежевое",
+    "price": 5000,
+    "img": "dress2.jpg"
   }
   ,
   {
