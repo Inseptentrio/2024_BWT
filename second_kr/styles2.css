@@ -28,8 +28,8 @@ body {
     background-image: url("ogogog.jpg");
 }
 
-start {
-    margin-top: -200px;
+#start {
+    margin-top: 25px;
 
 #first {
     text-align: center;
