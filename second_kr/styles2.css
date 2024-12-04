@@ -35,11 +35,15 @@ start {
     text-align: center;
     font-size: 12px;
     margin-top: 50px;
+    text-decoration: none;
+    color: purple;
 }
 
 .zero {
     text-align: center;
     font-size: 12px;
+    text-decoration: none;
+    color: purple;
 }
 .one {
     text-align: center;
