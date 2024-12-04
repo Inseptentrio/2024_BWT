@@ -104,6 +104,8 @@ start {
     text-align: left;
     font-size: 12px;
     margin-top: 50px;
+    text-decoration: none;
+    color: purple;
 }
 
 .nine {
