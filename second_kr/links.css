@@ -26,7 +26,7 @@ a {
 }
 
 .figure {
-    background: white;
+    background-image: url("ogogog.jpg");
     display: flex;
     flex-flow: column;
     padding: 10px;
