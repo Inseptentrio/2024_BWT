@@ -30,6 +30,12 @@ body {
 
 start {
     margin-top: -200px;
+
+#first {
+    text-align: center;
+    font-size: 12px;
+}
+
 }
 .zerozero {
     text-align: center;
