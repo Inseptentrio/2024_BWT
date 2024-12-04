@@ -11,7 +11,7 @@ a {
     border: none;
 
     color: white;
-    background-color: black;
+    background-color: purple;
     padding: 8px;
 }
 
@@ -39,8 +39,8 @@ a {
 }
 
 .figcaption {
-    background: beige;
-    color: #556B2F;
+    background: white;
+    color: purple;
     padding: 3px;
     font-size: 22px;
     text-align: center;
@@ -59,8 +59,8 @@ a {
     border-radius: 4px;
     border: none;
 
-    color: #556B2F;
+    color: purple;
 
-    background: beige;
+    background: white;
     padding: 8px;
 }
