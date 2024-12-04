@@ -20,13 +20,13 @@ a {
     flex-direction: column;
     align-content: center;
 
-    font-family: Calibri;
+    font-family: Jost;
     font-weight: 500;
     font-variant-ligatures: normal;
 }
 
 .figure {
-    background: #556B2F;
+    background: white;
     display: flex;
     flex-flow: column;
     padding: 10px;
