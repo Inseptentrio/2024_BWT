@@ -11,7 +11,8 @@ a {
     border: none;
 
     color: white;
-    background-color: purple;
+
+    background: purple;
     padding: 8px;
 }
 
@@ -20,13 +21,13 @@ a {
     flex-direction: column;
     align-content: center;
 
-    font-family: Jost;
+    font-family: Calibri;
     font-weight: 500;
     font-variant-ligatures: normal;
 }
 
 .figure {
-    background-image: url("ogogog.jpg");
+    background: white;
     display: flex;
     flex-flow: column;
     padding: 10px;
@@ -42,7 +43,7 @@ a {
     background: white;
     color: purple;
     padding: 3px;
-    font-size: 12px;
+    font-size: 22px;
     text-align: center;
 }
 
