@@ -81,6 +81,12 @@ start {
     text-align: center;
     font-size: 12px;
     margin-top: 25px;
+
+.eight {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 25px;
+}
 }
 
 .important {
@@ -92,8 +98,6 @@ start {
 .nine {
     text-align: left;
     font-size: 12px;
-    margin-left: 250px;
-    margin-right: 250px;
     margin-top: 50px;
 }
 
